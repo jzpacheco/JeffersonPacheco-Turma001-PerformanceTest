@@ -24,7 +24,6 @@ export const options = {
     { duration: '20s', target: 230 },  
     { duration: '30s', target: 300 },
   ],
-  maxDuration: '300s',  
 };
 
 export function handleSummary(data) {
